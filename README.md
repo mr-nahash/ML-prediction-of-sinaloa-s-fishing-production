@@ -10,4 +10,5 @@ In general terms the followed process was:
   3. Data Exploration
   4. Data Modeling
   5. Data Evaluation
-I hope you find this work not only as showcase of my skills but also as an example of the insights that data analysis can bring
+ <br>
+I hope you find this work not only as showcase of my skills but also as an example of the insights that data analysis can bring to a national industry
