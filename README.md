@@ -1,8 +1,8 @@
 # Univariate Timeseries Analysis and ML Forecasting of Mexican Fishing Production
 by Fernando Armando Martinez Urrutia
 
-Using Mexico's National Open Database Website, I used my skills as a data analyst|data scientist to gain relevant insights into the fishing industry of this country.
-My goal was to work in each stage of the data analysis process followed by the implementation of 3 LSTM RNN models to mainly predict the profit
+Using Mexico's National Open Database Website, I used my skills as a data analyst | data scientist to gain relevant insights into the fishing industry of this country.
+My goal was to work in each stage of the data analysis process followed by the implementation of three different **LSTM RNN models** to mainly predict the profit
 of the most productive State. 
 In general terms the followed process was:
   1. Problem Delimitation and Objective 
